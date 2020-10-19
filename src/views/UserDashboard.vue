@@ -152,9 +152,9 @@
               <v-card-title>Fund your account</v-card-title>
               <p class="text-center px-3">Transfer money to this account and upload your proof of payment.</p>
               <p class="subtitle-2 font-weight-bold text-center">
-                <span>First City Monument Bank</span> <br>
-                <span>2591493017</span> <br>
-                <span>UGBOKO DAVID PASCAL</span>
+                <span>United Bank for Africa (UBA)</span> <br>
+                <span>1023387123</span> <br>
+                <span>Titan Management Limited</span>
               </p>
               <v-card-text class="text-center px-5">
                 <v-text-field dense outlined v-model="paidAmount" type="number" label="Amount"></v-text-field>
